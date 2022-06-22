@@ -19,7 +19,7 @@ function SearchForm(props) {
         Search
       </label>
       <input
-        type="search"
+        type="number"
         onChange={onSearchChange}
         name="search"
         placeholder="Search..."
